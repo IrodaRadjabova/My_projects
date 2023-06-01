@@ -13,7 +13,7 @@ In macOS and Linux this program will works, unfortunatelly others will install G
 ## Usage
 Author or program will generate 4 unique random numbers from 0 to 8, and you must find what are they. If you enter Wrong input as "av54" program will define it and return you Wrong input, if you do not find you go to next round.
 ```
-./my_project argument1 argument2
+./my_mastermind -c 1234
 ```
 
 ### The Core Team
